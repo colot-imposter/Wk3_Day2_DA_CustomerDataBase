@@ -1,0 +1,13 @@
+
+.container{
+  margin:0 5%;
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: column;
+}
+
+section{
+  display: flex;
+  justify-content: space-around;
+  text-align: center;
+}
